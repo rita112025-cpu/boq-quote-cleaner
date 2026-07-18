@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+output/
+out_boq/
+out_quote/
+~$*
